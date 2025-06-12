@@ -26,6 +26,4 @@ Utiliser [Remix IDE](https://remix.ethereum.org/) avec :
 - Environnement : JavaScript VM (ou Injected Web3 pour Metamask)
 - Version Solidity : 0.8.x
 
-## 🔐 Auteur
-Réalisé dans le cadre d’un TP universitaire en cybersécurité.
 
